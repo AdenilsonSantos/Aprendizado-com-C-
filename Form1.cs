@@ -35,7 +35,7 @@ namespace FormasGeomatricas_FocoNoUsoDoPolimorfismo
 
             Circunferencia circunferencia = new Circunferencia();
             circunferencia.Altura = 250;
-            circunferencia.Largura = 300;
+            circunferencia.Largura = 400;
             circunferencia.Desenhar();
             circunferencia.Apresentar();
             circunferencia.desenharOutro();
